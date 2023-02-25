@@ -4,4 +4,5 @@
 #
 *Disarankan untuk menggunakan akun facebook tumbal*
 #
-# Jalankan dengan perintah *python run.py*
+# Jalankan dengan perintah 
+*python run.py*
