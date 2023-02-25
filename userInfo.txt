@@ -1,0 +1,4 @@
+# info password login2.py
+# ! JANGAN PERNAH MERUBAH SCRIPT INI JIKA ANDA BUKAN SEORANG AHLI
+# jika anda merubah skript, anda tidak akan pernah bisa login
+Ardia-Trista 370581144e2f7b7ee8059631951879cde7917a9c56b1e581811e8efb8c50203a 
