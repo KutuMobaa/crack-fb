@@ -6,3 +6,6 @@
 #
 # Jalankan dengan perintah 
 *python run.py*
+#
+# Jika link password tidak bisa di akses, silahkan akses link berikut
+*https://semawur.com/Whh2D*
