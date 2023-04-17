@@ -22,3 +22,13 @@ python run.py
 * 
 * Jika link password tidak bisa di akses, silahkan akses link berikut
 *https://semawur.com/Whh2D*
+*
+*
+*
+* Dukung kami :
+
+[Donasi](https://saweria.co/KutuMoba57)
+
+[Telegram](https://t.me/kutu_Moba57)
+
+[YouTube](https://youtube.com/@KutuMoba)
